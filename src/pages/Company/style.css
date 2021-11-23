@@ -1,0 +1,143 @@
+/*DIV principal*/
+.contanier_Company{
+    display: flex;
+    margin: 10px 5% 10px 5%;
+    width: auto;
+    height: auto;
+    border: 2px outset rgb(185, 200, 208);
+}
+
+/*Formulario*/
+.Form_Company{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+/*Cabeçalho*/
+.title_Company{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(230, 238, 242);
+    border-bottom: 2px solid rgb(185, 200, 208);
+    width: auto;
+    height: auto;
+    
+}
+
+/*Titulo*/
+.h1_Company{
+    margin-left: 2%;
+    font-size: 19px;
+    color: rgb(88, 150, 184);
+    width: auto;
+    height: auto;
+}
+
+/*Div dos Botões*/
+.but_Company{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: auto;
+    height: auto;
+}
+
+/*Botão Cancelar*/
+.but1_Company{
+    background-color:#9ca9ac;
+    color: white;
+    border-color: #9ca9ac;
+    margin: 15px 5px;
+    width: 100px;
+    height: 25px;
+    border-bottom: 8px;
+}
+
+/*Botão Salvar*/
+.but2_Company{
+    background-color:#299ebf;
+    color: white;
+    border-color: #299ebf;
+    margin: 15px 15px 15px 5px;
+    width: 100px;
+    height: 25px;
+    border-bottom: 8px;
+}
+
+/* DIV dos Itens do Formulario*/
+.item_Company{
+    display: flex;
+    width: auto; 
+    margin-top: 8px;
+}
+
+/*Label*/
+.campo1_company{
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 49%;
+
+}
+
+/*Input*/
+.campo2_company{
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 100%;
+}
+
+/*Linha divisoria*/
+.lin_Company{
+    margin: 2% 1% 0% 1%;
+    border-top: 2px solid rgb(185, 200, 208);
+    width: auto;
+    height: auto;
+}
+
+/*Input validador primeiro entre dois campos*/
+.val_company{
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 47.5%; 
+    border: 1px solid red;
+    color: red;
+    background-color: rgb(250, 212, 212);
+}
+
+/*Input validador segundo entre dois campos*/
+.val2_company{
+    margin: 0% 1% 0% 51%;
+    width: 48%; 
+    border: 1px solid red;
+    color: red;
+    background-color: rgb(250, 212, 212);
+}
+
+/*Input validador do primeiro entre três campos*/
+.val3_company{
+    margin: 0% 1% 0% 1%;
+    width: 30.80%; 
+    border: 1px solid red;
+    color: red;
+    background-color: rgb(250, 212, 212);
+}
+
+/*Input validador do segundo entre três campos*/
+.val4_company{
+    margin: 0% 1% 0% 34.33%;
+    width: 30.80%; 
+    border: 1px solid red;
+    color: red;
+    background-color: rgb(250, 212, 212);
+}
+
+/*Input validador do terceiro entre três campos*/
+.val5_company{
+    margin: 0% 1% 0% 67.67%;
+    width: 30.80%; 
+    border: 1px solid red;
+    color: red;
+    background-color: rgb(250, 212, 212);
+}

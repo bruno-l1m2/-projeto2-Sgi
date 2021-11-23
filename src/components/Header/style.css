@@ -1,0 +1,46 @@
+/* Menu de Navegação */
+
+/* Div */
+.container-nav{
+    background-color: #299ebf;
+    width: auto;
+    height: auto;
+    /*border:10px solid red;*/
+    
+}
+
+/* NAV*/
+.navbarra{
+    display: flex;
+    flex-direction:row;
+    align-content: center;
+    /*border:10px solid yellow;*/
+}
+
+/*UL*/
+.navbarra-item{
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-start;
+    /*border:10px solid #ffff;*/
+    width: auto;
+    padding: 0%;
+    align-items: center;
+    list-style-type:none;
+}
+
+/* LOGO */
+.navlogo{
+    margin-left: 5%;
+    width: auto;
+    /*border: 10px solid silver;*/
+}
+
+
+/*LI*/
+.navli{
+    margin-left: 25px;
+    color: white;
+    /*border:10px solid black;*/
+
+}

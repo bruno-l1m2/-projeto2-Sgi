@@ -1,0 +1,120 @@
+{
+  "product": [
+    {
+      "url": "https://vejasp.abril.com.br/wp-content/uploads/2016/12/abacaxi-nutricao.jpg",
+      "nome": "Abacaxi",
+      "custo": "4,99",
+      "descricao": "FRUTA",
+      "fornecedor": "Hortifruti",
+      "grupo": "fruta",
+      "id": 1
+    },
+    {
+      "url": "4",
+      "nome": "5",
+      "custo": "8",
+      "descricao": "",
+      "fornecedor": "Del valle",
+      "grupo": "Higiene",
+      "id": 2
+    },
+    {
+      "url": "https://cdn.lojazmart.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/m/a/maca-fuji-lojazmart.jpg",
+      "nome": "Maça",
+      "custo": "2,99",
+      "descricao": "test",
+      "fornecedor": "Del valle",
+      "grupo": "Cereais",
+      "id": 3
+    }
+  ],
+  "company": [
+    {
+      "id": 1,
+      "razao": "Company 1",
+      "nome": "Company 1",
+      "cnpj": "0102200/000155",
+      "email": "email@email",
+      "cep": "50000-05",
+      "endereco": "Rua Nova",
+      "numero": "123",
+      "bairro": "Bairro Novo",
+      "cidade": "São Paulo",
+      "complemento": "Edificio",
+      "coordinates": [
+        "11.505",
+        "-0.09"
+      ]
+    },
+    {
+      "id": 2,
+      "razao": "Company P2",
+      "nome": "Company P2",
+      "cnpj": "01123125/0001-31",
+      "email": "pemail@email.com.br",
+      "cep": "06480067",
+      "endereco": "Avenida Paulista",
+      "numero": "475",
+      "bairro": "Consolação",
+      "cidade": "São Paulo",
+      "complemento": "teste",
+      "coordinates": [
+        "19.505",
+        "-0.09"
+      ]
+    },
+    {
+      "razao": "Company 3 ",
+      "nome": "Company3",
+      "cnpj": "1235456487897",
+      "email": "company@email",
+      "cep": "024564789",
+      "endereco": "Rua consolação",
+      "numero": "101",
+      "bairro": "Consolação",
+      "cidade": "São Paulo",
+      "complemento": "Edifício ",
+      "coordinates": [
+        "23.557",
+        "-46.66"
+      ],
+      "id": 3
+    }
+  ],
+  "fornecedores": [
+    {
+      "fornecedor": "Del valle",
+      "id": 1
+    },
+    {
+      "fornecedor": "Amazon",
+      "id": 2
+    },
+    {
+      "fornecedor": "Dell",
+      "id": 3
+    }
+  ],
+  "grupos": [
+    {
+      "grupo": "Carnes",
+      "id": 1
+    },
+    {
+      "grupo": "Ovos",
+      "id": 2
+    },
+    {
+      "grupo": "Higiene",
+      "id": 1
+    },
+    {
+      "grupo": "Cereais",
+      "id": 1
+    },
+    {
+      "grupo": "Massas",
+      "id": 1
+    }
+  ]
+}

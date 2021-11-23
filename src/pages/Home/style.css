@@ -1,0 +1,12 @@
+/*Mapa*/
+.container-map{
+    width: auto;
+    height:10px auto;
+  }
+  
+  /*Mapa*/
+  .leaflet-container {
+    margin: 1% 5% 2% 5%;
+    width: 90%;
+    height: 64vh;
+  }

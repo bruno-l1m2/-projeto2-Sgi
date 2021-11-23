@@ -1,0 +1,46 @@
+/*Formulario Login*/
+
+/*Div*/
+.content_lgn {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+/*Form*/
+.container_form_lgn {
+  display: flex;
+  flex-direction: column;    
+  margin: auto 35%;
+  }
+
+/*Input principal*/
+.i_lgn {
+  margin-top: 10px;  
+}
+
+/*Input validador*/
+.i_lgn_v{
+  margin-top: 5px;
+  border: 2px solid red;
+  color: red;
+  background-color: rgb(250, 212, 212);
+}
+
+/*Label*/
+.lbl_pass_lgn{
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+/*Button*/
+.btn_entrar_lgn{
+    background-color:#299ebf;
+    color: white;
+    border-color: #299ebf;
+    margin-top: 15px;
+    width: 70px;
+    border-radius: 8px;
+
+}
+
